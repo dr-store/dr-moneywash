@@ -1,4 +1,5 @@
 Preview - https://streamable.com/qeizk1
 
-This is my First Script so please tell me if you have see any issues or improvements that i can do.
+This is my first script, so let me know if you find any issues or improvements I can make.
+
 Oficial DR-Store Discord - https://discord.gg/XwMnwWdkbj
